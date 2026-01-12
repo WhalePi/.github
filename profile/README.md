@@ -6,7 +6,7 @@ WhalePi is a series of repositories containing [PAMGuard](www.pamguard.org) plug
 
 ## Capabilities 
 
-The repositories are mostly individual plugins that add RasberryPi (sometimes just Linux) specific functionaility. These include 
+The repositories are mostly individual plugins that add RaspberryPi (sometimes just Linux) specific functionaility. These include 
 
 - Ability to record processor temperature.
 - Add Bluetooth connectivity so PAMGuard can be controlled from a phone/tablet/comnputer.
