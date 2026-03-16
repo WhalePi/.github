@@ -11,7 +11,7 @@ The repositories are mostly individual plugins that add RaspberryPi (sometimes j
 - Ability to record processor temperature.
 - Add Bluetooth connectivity so PAMGuard can be controlled from a phone/tablet/comnputer.
 - Ability to read 12C data from ADC boards (e.g. to read depth sensor data).
-- A phone app for passing PAMGuard commands to the RaspberryPI (TODO)
+- A phone app for passing PAMGuard commands to the RaspberryPi
 
 ## WhalePi autonomous recorder
 
