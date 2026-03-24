@@ -27,3 +27,6 @@ The WhalePi autonomous recorder uses a Raspberry Pi Zero running PAMGuard and co
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## Getting started
+The first port of call is the [install_whalepi](https://github.com/WhalePi/install_whalepi) repository. It provides releases of the firmware and comprehensive instructions on how to get started. 
