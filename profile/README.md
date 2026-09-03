@@ -16,7 +16,7 @@ The repositories are mostly individual plugins that add RaspberryPi (sometimes j
 
 ## WhalePi autonomous recorder
 
-The WhalePi autonomous recorder uses a Raspberry Pi Zero running PAMGuard and connected to a COSMOS soundcard. It has a high dynamic range (24-bit recordings) and records on two channels at a 384 kHz sample rate. The Raspberry Pi Zero is supplied with a 1TB SD card, and data are compressed to .sud files (effectively providing 4TB of storage, or ~20 days). Because PAMGuard is modular and highly flexible, it can also be run in different configurations—for example, running a click detector and long-term spectral average instead of saving sound files, meaning storage would last years.
+The WhalePi autonomous recorder uses a Raspberry Pi Zero running PAMGuard and connected to a COSMOS soundcard. It has a high dynamic range (16-bit usually, 24-bit recordings possible) and records on two channels at a 384 kHz sample rate. The Raspberry Pi Zero is supplied with a 1TB SD card, and data are compressed to .sud files (effectively providing 4TB of storage, or ~20 days). Because PAMGuard is modular and highly flexible, it can also be run in different configurations—for example, running a click detector and long-term spectral average instead of saving sound files, meaning storage would last years.
 
 <!--
 
